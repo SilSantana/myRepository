@@ -47,7 +47,7 @@ Partial Class Form1
         'lstNames
         '
         Me.lstNames.FormattingEnabled = True
-        Me.lstNames.Items.AddRange(New Object() {"Silvana"})
+        Me.lstNames.Items.AddRange(New Object() {"Silvana", "Lucas"})
         Me.lstNames.Location = New System.Drawing.Point(29, 75)
         Me.lstNames.Name = "lstNames"
         Me.lstNames.Size = New System.Drawing.Size(277, 121)
